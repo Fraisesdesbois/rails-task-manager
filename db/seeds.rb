@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Task.create(title: "se barrer à Bali", completed: true)
+Task.create(title: "se barrer au Canada", completed: true)
+Task.create(title: "se barrer aux US", completed: true)
+Task.create(title: "se barrer en Ecosse", completed: true)
